@@ -1,0 +1,8 @@
+faiss_cpu==1.10.0
+numpy==2.2.3
+pandas==2.2.3
+selenium==4.29.0
+sentence_transformers==3.4.1
+tensorflow==2.18.0
+torch==2.6.0
+transformers==4.49.0
