@@ -83,6 +83,10 @@ def summarize_text(text, max_length=512):
     
     return summarizer_tokenizer.decode(output_ids[0], skip_special_tokens=True)
 
+import re
+
+import re
+
 def generate_response(prompt):
     """Generates a response using GPT-2 (optimized for CPU) with tqdm progress tracking."""
     print("Tokenizing input...")
@@ -97,19 +101,36 @@ def generate_response(prompt):
 
     print("Generating output ids...")
 
-    # Progress bar simulation
     with torch.no_grad():
         output_ids = model.generate(
             input_ids,
             attention_mask=attention_mask,
-            max_new_tokens=50,  # Control output length instead of limiting total length
-            pad_token_id=tokenizer.eos_token_id,  # Prevents index errors
-            eos_token_id=tokenizer.eos_token_id  # Ensures early stopping
+            max_new_tokens=50,
+            pad_token_id=tokenizer.eos_token_id,
+            eos_token_id=tokenizer.eos_token_id
         )
 
-        # Progress bar for estimated token generation
-        for _ in tqdm(range(len(output_ids[0]) - len(input_ids[0])), desc="Generating tokens", unit="token"):
-            pass
+    print("Output ids generated")
+
+    # Decode output
+    response = tokenizer.decode(output_ids[0], skip_special_tokens=True)
+
+    # Extract only the answer part (removes echoed prompt)
+    if "Answer:" in response:
+        response = response.split("Answer:")[-1].strip()
+
+    # Truncate at the last complete sentence
+    response = re.split(r'(?<=\.)\s', response)  # Split at sentence boundaries
+    if response:
+        response = " ".join(response[:-1]) + "."  # Remove any unfinished part
+
+    # Ensure only ONE period at the end
+    response = re.sub(r'\.+$', '.', response)  # Remove extra trailing periods
+
+    return response.strip()
+
+
+
 
     print("Output ids generated")
     return tokenizer.decode(output_ids[0], skip_special_tokens=True)
@@ -119,16 +140,22 @@ def llm_pipeline(query):
     print("Retrieving context...")
     context = retrieve_context(query)
 
-    # Ensure the context is relevant and concise
+    # Format prompt properly to avoid context repetition
     if context:
         context_str = "\n".join(context).strip()
-        context_str = context_str[:500]  # Ensure context isn't too long
-        prompt = f"Use the following information to answer concisely:\n\n{context_str}\n\n{query}"
+        context_str = context_str[:500]  # Limit context to 500 chars
+
+        prompt = (
+            f"Context:\n{context_str}\n\n"
+            f"Question: {query}\n\n"
+            f"Answer:"
+        )
     else:
-        prompt = query
+        prompt = f"Question: {query}\n\nAnswer:"
 
     print("Generating response...")
     return generate_response(prompt)
+
 
 
 if __name__ == "__main__":
