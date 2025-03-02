@@ -13,11 +13,6 @@ model_name = "gpt2"
 tokenizer = GPT2Tokenizer.from_pretrained(model_name)
 model = TFGPT2LMHeadModel.from_pretrained(model_name)
 
-# Load summarization model
-summarizer_name = "t5-small"
-summarizer_tokenizer = T5Tokenizer.from_pretrained(summarizer_name)
-summarizer_model = TFAutoModelForSeq2SeqLM.from_pretrained(summarizer_name)
-
 embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Placeholder FAISS vector database
@@ -57,14 +52,16 @@ def summarize_text(text, max_length=512):
 
 def generate_response(prompt):
     """Generates a response using GPT-2 (TensorFlow version)."""
+    print("Tokenizing input...")
     input_ids = tokenizer(prompt, return_tensors="tf").input_ids
-
+    print("Tokenization complete")
     # Ensure input length does not exceed GPT-2's 1023 token limit
     if input_ids.shape[1] > 1023:
         input_ids = input_ids[:, -1023:]  # Keep only last 1023 tokens
 
     attention_mask = tf.ones_like(input_ids)
 
+    print("Generating output ids...")
     with tf.device("/CPU:0"):
         output_ids = model.generate(
             input_ids,
@@ -74,6 +71,7 @@ def generate_response(prompt):
             pad_token_id=tokenizer.eos_token_id,  # Prevents index errors
             eos_token_id=tokenizer.eos_token_id  # Ensures early stopping
         )
+    print("Output ids generated")
 
     return tokenizer.decode(output_ids.numpy()[0], skip_special_tokens=True)
 
@@ -98,12 +96,15 @@ def generate_response(prompt):
 
 def llm_pipeline(query):
     """Full pipeline with retrieval and response generation."""
+    print("Retrieving context...")
     context = retrieve_context(query)
+    print("Generating response...")
     augmented_prompt = "\n".join(context) + "\n\n" + query if context else query
     return generate_response(augmented_prompt)
 
 if __name__ == "__main__":
-    add_csv_to_vector_db("sachacks_scraped_data_selenium_1.csv", ["URL", "Content"])
+    add_csv_to_vector_db("mini_data.csv", ["URL", "Content"])
     user_query = "What is SacHacks?"
+    print("User query inputted")
     response = llm_pipeline(user_query)
-    print("Response:", response)
+    print("FULL RESPONSE:", response)
