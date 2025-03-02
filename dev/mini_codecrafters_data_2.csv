@@ -1,0 +1,40 @@
+Full Link,Text,Tags
+https://app.codecrafters.io/courses/shell/stages/oo8,Print a prompt,print | prompt
+https://app.codecrafters.io/courses/shell/stages/cz2,Handle invalid commands,commands | handle | invalid
+https://app.codecrafters.io/courses/shell/stages/ff0,REPL,repl
+https://app.codecrafters.io/courses/shell/stages/pn5,The exit builtin,builtin | exit
+https://app.codecrafters.io/courses/shell/stages/iz3,The echo builtin,builtin | echo
+https://app.codecrafters.io/courses/shell/stages/ez5,The type builtin: builtins,builtin | builtins | type
+https://app.codecrafters.io/courses/shell/stages/mg5,The type builtin: executable files,builtin | executable | files | type
+https://app.codecrafters.io/courses/shell/stages/ip1,Run a program,program | run
+https://app.codecrafters.io/courses/shell/stages/ei0,The pwd builtin,builtin | pwd
+https://app.codecrafters.io/courses/shell/stages/ra6,The cd builtin: Absolute paths,absolute | builtin | cd | paths
+https://app.codecrafters.io/courses/shell/stages/gq9,The cd builtin: Relative paths,builtin | cd | paths | relative
+https://app.codecrafters.io/courses/shell/stages/gp4,The cd builtin: Home directory,builtin | cd | directory | home
+https://app.codecrafters.io/courses/shell/stages/ni6,Single quotes,quotes | single
+https://app.codecrafters.io/courses/shell/stages/tg6,Double quotes,double | quotes
+https://app.codecrafters.io/courses/shell/stages/yt5,Backslash outside quotes,backslash | outside | quotes
+https://app.codecrafters.io/courses/shell/stages/le5,Backslash within single quotes,backslash | quotes | single | within
+https://app.codecrafters.io/courses/shell/stages/gu3,Backslash within double quotes,backslash | double | quotes | within
+https://app.codecrafters.io/courses/shell/stages/qj0,Executing a quoted executable,executable | executing | quoted
+https://app.codecrafters.io/courses/shell/stages/jv1,Redirect stdout,redirect | stdout
+https://app.codecrafters.io/courses/shell/stages/vz4,Redirect stderr,redirect | stderr
+https://app.codecrafters.io/courses/shell/stages/el9,Append stdout,append | stdout
+https://app.codecrafters.io/courses/shell/stages/un3,Append stderr,append | stderr
+https://app.codecrafters.io/courses/shell/stages/qp2,Builtin completion,builtin | completion
+https://app.codecrafters.io/courses/shell/stages/gm9,Completion with arguments,arguments | completion
+https://app.codecrafters.io/courses/shell/stages/qm8,Missing completions,completions | missing
+https://app.codecrafters.io/courses/shell/stages/gy5,Executable completion,completion | executable
+https://app.codecrafters.io/courses/shell/stages/wh6,Multiple completions,completions | multiple
+https://app.codecrafters.io/courses/shell/stages/wt6,Partial completions,completions | partial
+https://app.codecrafters.io/courses/grep/stages/cq2,Match a literal character,character | literal | match
+https://app.codecrafters.io/courses/grep/stages/oq2,Match digits,digits | match
+https://app.codecrafters.io/courses/grep/stages/mr9,Match alphanumeric characters,alphanumeric | characters | match
+https://app.codecrafters.io/courses/grep/stages/tl6,Positive Character Groups,character | groups | positive
+https://app.codecrafters.io/courses/grep/stages/rk3,Negative Character Groups,character | groups | negative
+https://app.codecrafters.io/courses/grep/stages/sh9,Combining Character Classes,character | classes | combining
+https://app.codecrafters.io/courses/grep/stages/rr8,Start of string anchor,anchor | start | string
+https://app.codecrafters.io/courses/grep/stages/ao7,End of string anchor,anchor | end | string
+https://app.codecrafters.io/courses/grep/stages/fz7,Match one or more times,match | one | times
+https://app.codecrafters.io/courses/grep/stages/ny8,Match zero or one times,match | one | times | zero
+https://app.codecrafters.io/courses/grep/stages/zb3,Wildcard,wildcard

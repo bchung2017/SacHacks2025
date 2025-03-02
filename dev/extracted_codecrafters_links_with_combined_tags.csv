@@ -1,0 +1,165 @@
+Full Link,Text,Section,Tags
+https://app.codecrafters.io/courses/shell/stages/oo8,Print a prompt,Unknown Section,unknown | prompt | section | print
+https://app.codecrafters.io/courses/shell/stages/cz2,Handle invalid commands,Unknown Section,invalid | handle | commands | unknown | section
+https://app.codecrafters.io/courses/shell/stages/ff0,REPL,Unknown Section,unknown | section | repl
+https://app.codecrafters.io/courses/shell/stages/pn5,The exit builtin,Unknown Section,exit | unknown | section | builtin
+https://app.codecrafters.io/courses/shell/stages/iz3,The echo builtin,Unknown Section,echo | unknown | section | builtin
+https://app.codecrafters.io/courses/shell/stages/ez5,The type builtin: builtins,Unknown Section,builtins | type | unknown | section | builtin
+https://app.codecrafters.io/courses/shell/stages/mg5,The type builtin: executable files,Unknown Section,files | type | executable | unknown | section | builtin
+https://app.codecrafters.io/courses/shell/stages/ip1,Run a program,Unknown Section,run | unknown | section | program
+https://app.codecrafters.io/courses/shell/stages/ei0,The pwd builtin,Unknown Section,unknown | pwd | section | builtin
+https://app.codecrafters.io/courses/shell/stages/ra6,The cd builtin: Absolute paths,Unknown Section,cd | paths | absolute | unknown | section | builtin
+https://app.codecrafters.io/courses/shell/stages/gq9,The cd builtin: Relative paths,Unknown Section,cd | relative | paths | unknown | section | builtin
+https://app.codecrafters.io/courses/shell/stages/gp4,The cd builtin: Home directory,Unknown Section,home | cd | directory | unknown | section | builtin
+https://app.codecrafters.io/courses/shell/stages/ni6,Single quotes,Unknown Section,single | section | unknown | quotes
+https://app.codecrafters.io/courses/shell/stages/tg6,Double quotes,Unknown Section,double | section | unknown | quotes
+https://app.codecrafters.io/courses/shell/stages/yt5,Backslash outside quotes,Unknown Section,outside | quotes | unknown | section | backslash
+https://app.codecrafters.io/courses/shell/stages/le5,Backslash within single quotes,Unknown Section,single | quotes | within | unknown | section | backslash
+https://app.codecrafters.io/courses/shell/stages/gu3,Backslash within double quotes,Unknown Section,double | quotes | within | unknown | section | backslash
+https://app.codecrafters.io/courses/shell/stages/qj0,Executing a quoted executable,Unknown Section,executing | executable | unknown | quoted | section
+https://app.codecrafters.io/courses/shell/stages/jv1,Redirect stdout,Unknown Section,redirect | stdout | unknown | section
+https://app.codecrafters.io/courses/shell/stages/vz4,Redirect stderr,Unknown Section,redirect | unknown | stderr | section
+https://app.codecrafters.io/courses/shell/stages/el9,Append stdout,Unknown Section,append | stdout | unknown | section
+https://app.codecrafters.io/courses/shell/stages/un3,Append stderr,Unknown Section,append | unknown | stderr | section
+https://app.codecrafters.io/courses/shell/stages/qp2,Builtin completion,Unknown Section,section | unknown | completion | builtin
+https://app.codecrafters.io/courses/shell/stages/gm9,Completion with arguments,Unknown Section,arguments | section | unknown | completion
+https://app.codecrafters.io/courses/shell/stages/qm8,Missing completions,Unknown Section,completions | missing | section | unknown
+https://app.codecrafters.io/courses/shell/stages/gy5,Executable completion,Unknown Section,executable | section | unknown | completion
+https://app.codecrafters.io/courses/shell/stages/wh6,Multiple completions,Unknown Section,completions | multiple | section | unknown
+https://app.codecrafters.io/courses/shell/stages/wt6,Partial completions,Unknown Section,partial | completions | section | unknown
+https://app.codecrafters.io/courses/grep/stages/cq2,Match a literal character,Unknown Section,literal | character | match | unknown | section
+https://app.codecrafters.io/courses/grep/stages/oq2,Match digits,Unknown Section,digits | match | unknown | section
+https://app.codecrafters.io/courses/grep/stages/mr9,Match alphanumeric characters,Unknown Section,characters | match | unknown | section | alphanumeric
+https://app.codecrafters.io/courses/grep/stages/tl6,Positive Character Groups,Unknown Section,positive | character | unknown | groups | section
+https://app.codecrafters.io/courses/grep/stages/rk3,Negative Character Groups,Unknown Section,character | negative | unknown | groups | section
+https://app.codecrafters.io/courses/grep/stages/sh9,Combining Character Classes,Unknown Section,combining | character | classes | unknown | section
+https://app.codecrafters.io/courses/grep/stages/rr8,Start of string anchor,Unknown Section,start | anchor | string | unknown | section
+https://app.codecrafters.io/courses/grep/stages/ao7,End of string anchor,Unknown Section,anchor | string | end | section | unknown
+https://app.codecrafters.io/courses/grep/stages/fz7,Match one or more times,Unknown Section,match | times | one | unknown | section
+https://app.codecrafters.io/courses/grep/stages/ny8,Match zero or one times,Unknown Section,match | times | one | zero | unknown | section
+https://app.codecrafters.io/courses/grep/stages/zb3,Wildcard,Unknown Section,unknown | section | wildcard
+https://app.codecrafters.io/courses/grep/stages/zm7,Alternation,Unknown Section,alternation | unknown | section
+https://app.codecrafters.io/courses/grep/stages/sb5,Single Backreference,Unknown Section,single | backreference | unknown | section
+https://app.codecrafters.io/courses/grep/stages/tg1,Multiple Backreferences,Unknown Section,backreferences | unknown | section | multiple
+https://app.codecrafters.io/courses/grep/stages/xe5,Nested Backreferences,Unknown Section,nested | backreferences | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/ry8,Scanning: Empty file,Unknown Section,empty | scanning | file | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/ol4,Scanning: Parentheses,Unknown Section,parentheses | scanning | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/oe8,Scanning: Braces,Unknown Section,scanning | unknown | braces | section
+https://app.codecrafters.io/courses/interpreter/stages/xc5,Scanning: Other single-character tokens,Unknown Section,character | scanning | tokens | single | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/ea6,Scanning: Lexical errors,Unknown Section,errors | scanning | lexical | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/mp7,Scanning: Assignment & equality Operators,Unknown Section,equality | scanning | operators | assignment | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/bu3,Scanning: Negation & inequality operators,Unknown Section,inequality | scanning | operators | negation | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/et2,Scanning: Relational operators,Unknown Section,scanning | relational | operators | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/ml2,Scanning: Division operator & comments,Unknown Section,division | operator | scanning | comments | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/er2,Scanning: Whitespace,Unknown Section,scanning | whitespace | section | unknown
+https://app.codecrafters.io/courses/interpreter/stages/tz7,Scanning: Multi-line errors,Unknown Section,errors | multi | scanning | unknown | line | section
+https://app.codecrafters.io/courses/interpreter/stages/ue7,Scanning: String literals,Unknown Section,scanning | literals | string | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/kj0,Scanning: Number literals,Unknown Section,scanning | literals | number | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/ey7,Scanning: Identifiers,Unknown Section,scanning | unknown | section | identifiers
+https://app.codecrafters.io/courses/interpreter/stages/pq5,Scanning: Reserved words,Unknown Section,reserved | scanning | words | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/sc2,Booleans & Nil,Unknown Section,section | unknown | nil | booleans
+https://app.codecrafters.io/courses/interpreter/stages/ra8,Number literals,Unknown Section,unknown | number | section | literals
+https://app.codecrafters.io/courses/interpreter/stages/th5,String literals,Unknown Section,unknown | string | section | literals
+https://app.codecrafters.io/courses/interpreter/stages/xe6,Parentheses,Unknown Section,parentheses | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/mq1,Unary Operators,Unknown Section,section | unknown | operators | unary
+https://app.codecrafters.io/courses/interpreter/stages/wa9,Arithmetic operators (1/2),Unknown Section,2 | 1 | arithmetic | operators | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/yf2,Arithmetic operators (2/2),Unknown Section,2 | arithmetic | operators | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/uh4,Comparison operators,Unknown Section,section | unknown | operators | comparison
+https://app.codecrafters.io/courses/interpreter/stages/ht8,Equality operators,Unknown Section,equality | operators | section | unknown
+https://app.codecrafters.io/courses/interpreter/stages/wz8,Syntactic errors,Unknown Section,errors | unknown | syntactic | section
+https://app.codecrafters.io/courses/interpreter/stages/iz6,Literals: Booleans & Nil,Unknown Section,nil | literals | booleans | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/lv1,Literals: Strings & Numbers,Unknown Section,literals | numbers | unknown | strings | section
+https://app.codecrafters.io/courses/interpreter/stages/oq9,Parentheses,Unknown Section,parentheses | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/dc1,Unary Operators: Negation & Not,Unknown Section,section | operators | negation | unknown | unary
+https://app.codecrafters.io/courses/interpreter/stages/bp3,Arithmetic Operators (1/2),Unknown Section,2 | 1 | arithmetic | operators | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/jy2,Arithmetic Operators (2/2),Unknown Section,2 | arithmetic | operators | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/jx8,String Concatenation,Unknown Section,concatenation | unknown | string | section
+https://app.codecrafters.io/courses/interpreter/stages/et4,Relational Operators,Unknown Section,unknown | operators | section | relational
+https://app.codecrafters.io/courses/interpreter/stages/hw7,Equality Operators,Unknown Section,equality | operators | section | unknown
+https://app.codecrafters.io/courses/interpreter/stages/gj9,Runtime Errors: Unary Operators,Unknown Section,errors | section | runtime | operators | unknown | unary
+https://app.codecrafters.io/courses/interpreter/stages/yu6,Runtime Errors: Binary Operators (1/2),Unknown Section,errors | 2 | runtime | 1 | binary | operators | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/cq1,Runtime Errors: Binary Operators (2/2),Unknown Section,errors | 2 | runtime | binary | operators | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/ib5,Runtime Errors: Relational Operators,Unknown Section,errors | runtime | relational | operators | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/xy1,Print: Generate output,Unknown Section,generate | output | print | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/oe4,Print: Multiple statements,Unknown Section,print | statements | multiple | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/fi3,Expression statements,Unknown Section,expression | unknown | section | statements
+https://app.codecrafters.io/courses/interpreter/stages/yg2,Variables: Declare variables,Unknown Section,declare | variables | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/sv7,Variables: Runtime Errors,Unknown Section,errors | runtime | variables | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/bc1,Variables: Initialize variables,Unknown Section,variables | initialize | section | unknown
+https://app.codecrafters.io/courses/interpreter/stages/dw9,Variables: Redeclare variables,Unknown Section,variables | unknown | redeclare | section
+https://app.codecrafters.io/courses/interpreter/stages/pl3,Assignment operation,Unknown Section,assignment | operation | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/vr5,Block syntax,Unknown Section,block | unknown | syntax | section
+https://app.codecrafters.io/courses/interpreter/stages/fb4,Scopes,Unknown Section,section | unknown | scopes
+https://app.codecrafters.io/courses/interpreter/stages/ne3,If statements,Unknown Section,statements | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/st5,Else statements,Unknown Section,section | statements | unknown | else
+https://app.codecrafters.io/courses/interpreter/stages/fh8,Else-if statements,Unknown Section,section | statements | unknown | else
+https://app.codecrafters.io/courses/interpreter/stages/xj4,Nested if statements,Unknown Section,nested | statements | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/wk8,Logical OR operator,Unknown Section,logical | unknown | operator | section
+https://app.codecrafters.io/courses/interpreter/stages/jx4,Logical AND operator,Unknown Section,logical | unknown | operator | section
+https://app.codecrafters.io/courses/interpreter/stages/qy3,While statements,Unknown Section,statements | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/bw6,For statements,Unknown Section,statements | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/vt1,Syntactic errors,Unknown Section,errors | unknown | syntactic | section
+https://app.codecrafters.io/courses/interpreter/stages/av4,Native functions,Unknown Section,functions | unknown | native | section
+https://app.codecrafters.io/courses/interpreter/stages/pg8,Functions without arguments,Unknown Section,functions | without | arguments | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/lb6,Functions with arguments,Unknown Section,arguments | functions | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/px4,Syntax errors,Unknown Section,errors | unknown | syntax | section
+https://app.codecrafters.io/courses/interpreter/stages/rd2,Return statements,Unknown Section,statements | unknown | return | section
+https://app.codecrafters.io/courses/interpreter/stages/ey3,Higher order functions,Unknown Section,functions | order | section | unknown | higher
+https://app.codecrafters.io/courses/interpreter/stages/fj7,Runtime errors,Unknown Section,errors | runtime | unknown | section
+https://app.codecrafters.io/courses/interpreter/stages/bz4,Function scope,Unknown Section,scope | unknown | function | section
+https://app.codecrafters.io/courses/interpreter/stages/gg6,Closures,Unknown Section,closures | unknown | section
+https://app.codecrafters.io/courses/redis/stages/jm1,Bind to a port,Unknown Section,port | bind | unknown | section
+https://app.codecrafters.io/courses/redis/stages/rg2,Respond to PING,Unknown Section,ping | unknown | section | respond
+https://app.codecrafters.io/courses/redis/stages/wy1,Respond to multiple PINGs,Unknown Section,pings | respond | multiple | unknown | section
+https://app.codecrafters.io/courses/redis/stages/zu2,Handle concurrent clients,Unknown Section,clients | handle | concurrent | unknown | section
+https://app.codecrafters.io/courses/redis/stages/qq0,Implement the ECHO command,Unknown Section,command | echo | implement | unknown | section
+https://app.codecrafters.io/courses/redis/stages/la7,Implement the SET & GET commands,Unknown Section,implement | commands | set | unknown | get | section
+https://app.codecrafters.io/courses/redis/stages/yz1,Expiry,Unknown Section,expiry | unknown | section
+https://app.codecrafters.io/courses/redis/stages/zg5,RDB file config,Unknown Section,rdb | config | file | unknown | section
+https://app.codecrafters.io/courses/redis/stages/jz6,Read a key,Unknown Section,read | unknown | section | key
+https://app.codecrafters.io/courses/redis/stages/gc6,Read a string value,Unknown Section,read | value | string | unknown | section
+https://app.codecrafters.io/courses/redis/stages/jw4,Read multiple keys,Unknown Section,keys | read | multiple | unknown | section
+https://app.codecrafters.io/courses/redis/stages/dq3,Read multiple string values,Unknown Section,values | read | string | multiple | unknown | section
+https://app.codecrafters.io/courses/redis/stages/sm4,Read value with expiry,Unknown Section,expiry | read | value | unknown | section
+https://app.codecrafters.io/courses/redis/stages/bw1,Configure listening port,Unknown Section,configure | listening | port | unknown | section
+https://app.codecrafters.io/courses/redis/stages/ye5,The INFO command,Unknown Section,command | unknown | section | info
+https://app.codecrafters.io/courses/redis/stages/hc6,The INFO command on a replica,Unknown Section,section | replica | info | unknown | command
+https://app.codecrafters.io/courses/redis/stages/xc1,Initial Replication ID and Offset,Unknown Section,id | initial | replication | offset | unknown | section
+https://app.codecrafters.io/courses/redis/stages/gl7,Send handshake (1/3),Unknown Section,handshake | 1 | 3 | send | unknown | section
+https://app.codecrafters.io/courses/redis/stages/eh4,Send handshake (2/3),Unknown Section,2 | handshake | 3 | send | unknown | section
+https://app.codecrafters.io/courses/redis/stages/ju6,Send handshake (3/3),Unknown Section,handshake | 3 | send | unknown | section
+https://app.codecrafters.io/courses/redis/stages/fj0,Receive handshake (1/2),Unknown Section,handshake | 2 | 1 | receive | unknown | section
+https://app.codecrafters.io/courses/redis/stages/vm3,Receive handshake (2/2),Unknown Section,handshake | 2 | receive | unknown | section
+https://app.codecrafters.io/courses/redis/stages/cf8,Empty RDB Transfer,Unknown Section,empty | rdb | transfer | unknown | section
+https://app.codecrafters.io/courses/redis/stages/zn8,Single-replica propagation,Unknown Section,replica | single | propagation | unknown | section
+https://app.codecrafters.io/courses/redis/stages/hd5,Multi Replica Command Propagation,Unknown Section,multi | command | replica | propagation | unknown | section
+https://app.codecrafters.io/courses/redis/stages/yg4,Command Processing,Unknown Section,section | unknown | processing | command
+https://app.codecrafters.io/courses/redis/stages/xv6,ACKs with no commands,Unknown Section,acks | unknown | commands | section
+https://app.codecrafters.io/courses/redis/stages/yd3,ACKs with commands,Unknown Section,acks | unknown | commands | section
+https://app.codecrafters.io/courses/redis/stages/my8,WAIT with no replicas,Unknown Section,replicas | wait | section | unknown
+https://app.codecrafters.io/courses/redis/stages/tu8,WAIT with no commands,Unknown Section,wait | commands | section | unknown
+https://app.codecrafters.io/courses/redis/stages/na2,WAIT with multiple commands,Unknown Section,wait | commands | multiple | unknown | section
+https://app.codecrafters.io/courses/redis/stages/cc3,The TYPE command,Unknown Section,command | type | unknown | section
+https://app.codecrafters.io/courses/redis/stages/cf6,Create a stream,Unknown Section,create | stream | section | unknown
+https://app.codecrafters.io/courses/redis/stages/hq8,Validating entry IDs,Unknown Section,ids | entry | validating | unknown | section
+https://app.codecrafters.io/courses/redis/stages/yh3,Partially auto-generated IDs,Unknown Section,ids | auto | partially | unknown | section | generated
+https://app.codecrafters.io/courses/redis/stages/xu6,Fully auto-generated IDs,Unknown Section,ids | auto | fully | unknown | section | generated
+https://app.codecrafters.io/courses/redis/stages/zx1,Query entries from stream,Unknown Section,stream | query | entries | section | unknown
+https://app.codecrafters.io/courses/redis/stages/yp1,Query with -,Unknown Section,unknown | section | query
+https://app.codecrafters.io/courses/redis/stages/fs1,Query with +,Unknown Section,unknown | section | query
+https://app.codecrafters.io/courses/redis/stages/um0,Query single stream using XREAD,Unknown Section,stream | using | xread | single | query | unknown | section
+https://app.codecrafters.io/courses/redis/stages/ru9,Query multiple streams using XREAD,Unknown Section,using | xread | query | streams | multiple | unknown | section
+https://app.codecrafters.io/courses/redis/stages/bs1,Blocking reads,Unknown Section,section | reads | unknown | blocking
+https://app.codecrafters.io/courses/redis/stages/hw1,Blocking reads without timeout,Unknown Section,timeout | without | blocking | reads | unknown | section
+https://app.codecrafters.io/courses/redis/stages/xu1,Blocking reads using $,Unknown Section,using | blocking | reads | unknown | section
+https://app.codecrafters.io/courses/redis/stages/si4,The INCR command (1/3),Unknown Section,command | 1 | 3 | incr | unknown | section
+https://app.codecrafters.io/courses/redis/stages/lz8,The INCR command (2/3),Unknown Section,2 | command | 3 | incr | unknown | section
+https://app.codecrafters.io/courses/redis/stages/mk1,The INCR command (3/3),Unknown Section,section | 3 | incr | unknown | command
+https://app.codecrafters.io/courses/redis/stages/pn0,The MULTI command,Unknown Section,multi | command | unknown | section
+https://app.codecrafters.io/courses/redis/stages/lo4,The EXEC command,Unknown Section,command | exec | unknown | section
+https://app.codecrafters.io/courses/redis/stages/we1,Empty transaction,Unknown Section,transaction | empty | section | unknown
+https://app.codecrafters.io/courses/redis/stages/rs9,Queueing commands,Unknown Section,queueing | unknown | commands | section
+https://app.codecrafters.io/courses/redis/stages/fy6,Executing a transaction,Unknown Section,transaction | executing | unknown | section
+https://app.codecrafters.io/courses/redis/stages/rl9,The DISCARD command,Unknown Section,command | unknown | section | discard
+https://app.codecrafters.io/courses/redis/stages/sg9,Failures within transactions,Unknown Section,failures | transactions | within | unknown | section
+https://app.codecrafters.io/courses/redis/stages/jf8,Multiple transactions,Unknown Section,section | unknown | transactions | multiple

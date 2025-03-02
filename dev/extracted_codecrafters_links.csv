@@ -1,0 +1,165 @@
+Full Link,Text,Tags
+https://app.codecrafters.io/courses/shell/stages/oo8,Print a prompt,print | prompt
+https://app.codecrafters.io/courses/shell/stages/cz2,Handle invalid commands,commands | handle | invalid
+https://app.codecrafters.io/courses/shell/stages/ff0,REPL,repl
+https://app.codecrafters.io/courses/shell/stages/pn5,The exit builtin,builtin | exit
+https://app.codecrafters.io/courses/shell/stages/iz3,The echo builtin,builtin | echo
+https://app.codecrafters.io/courses/shell/stages/ez5,The type builtin: builtins,builtin | builtins | type
+https://app.codecrafters.io/courses/shell/stages/mg5,The type builtin: executable files,builtin | executable | files | type
+https://app.codecrafters.io/courses/shell/stages/ip1,Run a program,program | run
+https://app.codecrafters.io/courses/shell/stages/ei0,The pwd builtin,builtin | pwd
+https://app.codecrafters.io/courses/shell/stages/ra6,The cd builtin: Absolute paths,absolute | builtin | cd | paths
+https://app.codecrafters.io/courses/shell/stages/gq9,The cd builtin: Relative paths,builtin | cd | paths | relative
+https://app.codecrafters.io/courses/shell/stages/gp4,The cd builtin: Home directory,builtin | cd | directory | home
+https://app.codecrafters.io/courses/shell/stages/ni6,Single quotes,quotes | single
+https://app.codecrafters.io/courses/shell/stages/tg6,Double quotes,double | quotes
+https://app.codecrafters.io/courses/shell/stages/yt5,Backslash outside quotes,backslash | outside | quotes
+https://app.codecrafters.io/courses/shell/stages/le5,Backslash within single quotes,backslash | quotes | single | within
+https://app.codecrafters.io/courses/shell/stages/gu3,Backslash within double quotes,backslash | double | quotes | within
+https://app.codecrafters.io/courses/shell/stages/qj0,Executing a quoted executable,executable | executing | quoted
+https://app.codecrafters.io/courses/shell/stages/jv1,Redirect stdout,redirect | stdout
+https://app.codecrafters.io/courses/shell/stages/vz4,Redirect stderr,redirect | stderr
+https://app.codecrafters.io/courses/shell/stages/el9,Append stdout,append | stdout
+https://app.codecrafters.io/courses/shell/stages/un3,Append stderr,append | stderr
+https://app.codecrafters.io/courses/shell/stages/qp2,Builtin completion,builtin | completion
+https://app.codecrafters.io/courses/shell/stages/gm9,Completion with arguments,arguments | completion
+https://app.codecrafters.io/courses/shell/stages/qm8,Missing completions,completions | missing
+https://app.codecrafters.io/courses/shell/stages/gy5,Executable completion,completion | executable
+https://app.codecrafters.io/courses/shell/stages/wh6,Multiple completions,completions | multiple
+https://app.codecrafters.io/courses/shell/stages/wt6,Partial completions,completions | partial
+https://app.codecrafters.io/courses/grep/stages/cq2,Match a literal character,character | literal | match
+https://app.codecrafters.io/courses/grep/stages/oq2,Match digits,digits | match
+https://app.codecrafters.io/courses/grep/stages/mr9,Match alphanumeric characters,alphanumeric | characters | match
+https://app.codecrafters.io/courses/grep/stages/tl6,Positive Character Groups,character | groups | positive
+https://app.codecrafters.io/courses/grep/stages/rk3,Negative Character Groups,character | groups | negative
+https://app.codecrafters.io/courses/grep/stages/sh9,Combining Character Classes,character | classes | combining
+https://app.codecrafters.io/courses/grep/stages/rr8,Start of string anchor,anchor | start | string
+https://app.codecrafters.io/courses/grep/stages/ao7,End of string anchor,anchor | end | string
+https://app.codecrafters.io/courses/grep/stages/fz7,Match one or more times,match | one | times
+https://app.codecrafters.io/courses/grep/stages/ny8,Match zero or one times,match | one | times | zero
+https://app.codecrafters.io/courses/grep/stages/zb3,Wildcard,wildcard
+https://app.codecrafters.io/courses/grep/stages/zm7,Alternation,alternation
+https://app.codecrafters.io/courses/grep/stages/sb5,Single Backreference,backreference | single
+https://app.codecrafters.io/courses/grep/stages/tg1,Multiple Backreferences,backreferences | multiple
+https://app.codecrafters.io/courses/grep/stages/xe5,Nested Backreferences,backreferences | nested
+https://app.codecrafters.io/courses/interpreter/stages/ry8,Scanning: Empty file,empty | file | scanning
+https://app.codecrafters.io/courses/interpreter/stages/ol4,Scanning: Parentheses,parentheses | scanning
+https://app.codecrafters.io/courses/interpreter/stages/oe8,Scanning: Braces,braces | scanning
+https://app.codecrafters.io/courses/interpreter/stages/xc5,Scanning: Other single-character tokens,character | scanning | single | tokens
+https://app.codecrafters.io/courses/interpreter/stages/ea6,Scanning: Lexical errors,errors | lexical | scanning
+https://app.codecrafters.io/courses/interpreter/stages/mp7,Scanning: Assignment & equality Operators,assignment | equality | operators | scanning
+https://app.codecrafters.io/courses/interpreter/stages/bu3,Scanning: Negation & inequality operators,inequality | negation | operators | scanning
+https://app.codecrafters.io/courses/interpreter/stages/et2,Scanning: Relational operators,operators | relational | scanning
+https://app.codecrafters.io/courses/interpreter/stages/ml2,Scanning: Division operator & comments,comments | division | operator | scanning
+https://app.codecrafters.io/courses/interpreter/stages/er2,Scanning: Whitespace,scanning | whitespace
+https://app.codecrafters.io/courses/interpreter/stages/tz7,Scanning: Multi-line errors,errors | line | multi | scanning
+https://app.codecrafters.io/courses/interpreter/stages/ue7,Scanning: String literals,literals | scanning | string
+https://app.codecrafters.io/courses/interpreter/stages/kj0,Scanning: Number literals,literals | number | scanning
+https://app.codecrafters.io/courses/interpreter/stages/ey7,Scanning: Identifiers,identifiers | scanning
+https://app.codecrafters.io/courses/interpreter/stages/pq5,Scanning: Reserved words,reserved | scanning | words
+https://app.codecrafters.io/courses/interpreter/stages/sc2,Booleans & Nil,booleans | nil
+https://app.codecrafters.io/courses/interpreter/stages/ra8,Number literals,literals | number
+https://app.codecrafters.io/courses/interpreter/stages/th5,String literals,literals | string
+https://app.codecrafters.io/courses/interpreter/stages/xe6,Parentheses,parentheses
+https://app.codecrafters.io/courses/interpreter/stages/mq1,Unary Operators,operators | unary
+https://app.codecrafters.io/courses/interpreter/stages/wa9,Arithmetic operators (1/2),1 | 2 | arithmetic | operators
+https://app.codecrafters.io/courses/interpreter/stages/yf2,Arithmetic operators (2/2),2 | arithmetic | operators
+https://app.codecrafters.io/courses/interpreter/stages/uh4,Comparison operators,comparison | operators
+https://app.codecrafters.io/courses/interpreter/stages/ht8,Equality operators,equality | operators
+https://app.codecrafters.io/courses/interpreter/stages/wz8,Syntactic errors,errors | syntactic
+https://app.codecrafters.io/courses/interpreter/stages/iz6,Literals: Booleans & Nil,booleans | literals | nil
+https://app.codecrafters.io/courses/interpreter/stages/lv1,Literals: Strings & Numbers,literals | numbers | strings
+https://app.codecrafters.io/courses/interpreter/stages/oq9,Parentheses,parentheses
+https://app.codecrafters.io/courses/interpreter/stages/dc1,Unary Operators: Negation & Not,negation | operators | unary
+https://app.codecrafters.io/courses/interpreter/stages/bp3,Arithmetic Operators (1/2),1 | 2 | arithmetic | operators
+https://app.codecrafters.io/courses/interpreter/stages/jy2,Arithmetic Operators (2/2),2 | arithmetic | operators
+https://app.codecrafters.io/courses/interpreter/stages/jx8,String Concatenation,concatenation | string
+https://app.codecrafters.io/courses/interpreter/stages/et4,Relational Operators,operators | relational
+https://app.codecrafters.io/courses/interpreter/stages/hw7,Equality Operators,equality | operators
+https://app.codecrafters.io/courses/interpreter/stages/gj9,Runtime Errors: Unary Operators,errors | operators | runtime | unary
+https://app.codecrafters.io/courses/interpreter/stages/yu6,Runtime Errors: Binary Operators (1/2),1 | 2 | binary | errors | operators | runtime
+https://app.codecrafters.io/courses/interpreter/stages/cq1,Runtime Errors: Binary Operators (2/2),2 | binary | errors | operators | runtime
+https://app.codecrafters.io/courses/interpreter/stages/ib5,Runtime Errors: Relational Operators,errors | operators | relational | runtime
+https://app.codecrafters.io/courses/interpreter/stages/xy1,Print: Generate output,generate | output | print
+https://app.codecrafters.io/courses/interpreter/stages/oe4,Print: Multiple statements,multiple | print | statements
+https://app.codecrafters.io/courses/interpreter/stages/fi3,Expression statements,expression | statements
+https://app.codecrafters.io/courses/interpreter/stages/yg2,Variables: Declare variables,declare | variables
+https://app.codecrafters.io/courses/interpreter/stages/sv7,Variables: Runtime Errors,errors | runtime | variables
+https://app.codecrafters.io/courses/interpreter/stages/bc1,Variables: Initialize variables,initialize | variables
+https://app.codecrafters.io/courses/interpreter/stages/dw9,Variables: Redeclare variables,redeclare | variables
+https://app.codecrafters.io/courses/interpreter/stages/pl3,Assignment operation,assignment | operation
+https://app.codecrafters.io/courses/interpreter/stages/vr5,Block syntax,block | syntax
+https://app.codecrafters.io/courses/interpreter/stages/fb4,Scopes,scopes
+https://app.codecrafters.io/courses/interpreter/stages/ne3,If statements,statements
+https://app.codecrafters.io/courses/interpreter/stages/st5,Else statements,else | statements
+https://app.codecrafters.io/courses/interpreter/stages/fh8,Else-if statements,else | statements
+https://app.codecrafters.io/courses/interpreter/stages/xj4,Nested if statements,nested | statements
+https://app.codecrafters.io/courses/interpreter/stages/wk8,Logical OR operator,logical | operator
+https://app.codecrafters.io/courses/interpreter/stages/jx4,Logical AND operator,logical | operator
+https://app.codecrafters.io/courses/interpreter/stages/qy3,While statements,statements
+https://app.codecrafters.io/courses/interpreter/stages/bw6,For statements,statements
+https://app.codecrafters.io/courses/interpreter/stages/vt1,Syntactic errors,errors | syntactic
+https://app.codecrafters.io/courses/interpreter/stages/av4,Native functions,functions | native
+https://app.codecrafters.io/courses/interpreter/stages/pg8,Functions without arguments,arguments | functions | without
+https://app.codecrafters.io/courses/interpreter/stages/lb6,Functions with arguments,arguments | functions
+https://app.codecrafters.io/courses/interpreter/stages/px4,Syntax errors,errors | syntax
+https://app.codecrafters.io/courses/interpreter/stages/rd2,Return statements,return | statements
+https://app.codecrafters.io/courses/interpreter/stages/ey3,Higher order functions,functions | higher | order
+https://app.codecrafters.io/courses/interpreter/stages/fj7,Runtime errors,errors | runtime
+https://app.codecrafters.io/courses/interpreter/stages/bz4,Function scope,function | scope
+https://app.codecrafters.io/courses/interpreter/stages/gg6,Closures,closures
+https://app.codecrafters.io/courses/redis/stages/jm1,Bind to a port,bind | port
+https://app.codecrafters.io/courses/redis/stages/rg2,Respond to PING,ping | respond
+https://app.codecrafters.io/courses/redis/stages/wy1,Respond to multiple PINGs,multiple | pings | respond
+https://app.codecrafters.io/courses/redis/stages/zu2,Handle concurrent clients,clients | concurrent | handle
+https://app.codecrafters.io/courses/redis/stages/qq0,Implement the ECHO command,command | echo | implement
+https://app.codecrafters.io/courses/redis/stages/la7,Implement the SET & GET commands,commands | get | implement | set
+https://app.codecrafters.io/courses/redis/stages/yz1,Expiry,expiry
+https://app.codecrafters.io/courses/redis/stages/zg5,RDB file config,config | file | rdb
+https://app.codecrafters.io/courses/redis/stages/jz6,Read a key,key | read
+https://app.codecrafters.io/courses/redis/stages/gc6,Read a string value,read | string | value
+https://app.codecrafters.io/courses/redis/stages/jw4,Read multiple keys,keys | multiple | read
+https://app.codecrafters.io/courses/redis/stages/dq3,Read multiple string values,multiple | read | string | values
+https://app.codecrafters.io/courses/redis/stages/sm4,Read value with expiry,expiry | read | value
+https://app.codecrafters.io/courses/redis/stages/bw1,Configure listening port,configure | listening | port
+https://app.codecrafters.io/courses/redis/stages/ye5,The INFO command,command | info
+https://app.codecrafters.io/courses/redis/stages/hc6,The INFO command on a replica,command | info | replica
+https://app.codecrafters.io/courses/redis/stages/xc1,Initial Replication ID and Offset,id | initial | offset | replication
+https://app.codecrafters.io/courses/redis/stages/gl7,Send handshake (1/3),1 | 3 | handshake | send
+https://app.codecrafters.io/courses/redis/stages/eh4,Send handshake (2/3),2 | 3 | handshake | send
+https://app.codecrafters.io/courses/redis/stages/ju6,Send handshake (3/3),3 | handshake | send
+https://app.codecrafters.io/courses/redis/stages/fj0,Receive handshake (1/2),1 | 2 | handshake | receive
+https://app.codecrafters.io/courses/redis/stages/vm3,Receive handshake (2/2),2 | handshake | receive
+https://app.codecrafters.io/courses/redis/stages/cf8,Empty RDB Transfer,empty | rdb | transfer
+https://app.codecrafters.io/courses/redis/stages/zn8,Single-replica propagation,propagation | replica | single
+https://app.codecrafters.io/courses/redis/stages/hd5,Multi Replica Command Propagation,command | multi | propagation | replica
+https://app.codecrafters.io/courses/redis/stages/yg4,Command Processing,command | processing
+https://app.codecrafters.io/courses/redis/stages/xv6,ACKs with no commands,acks | commands
+https://app.codecrafters.io/courses/redis/stages/yd3,ACKs with commands,acks | commands
+https://app.codecrafters.io/courses/redis/stages/my8,WAIT with no replicas,replicas | wait
+https://app.codecrafters.io/courses/redis/stages/tu8,WAIT with no commands,commands | wait
+https://app.codecrafters.io/courses/redis/stages/na2,WAIT with multiple commands,commands | multiple | wait
+https://app.codecrafters.io/courses/redis/stages/cc3,The TYPE command,command | type
+https://app.codecrafters.io/courses/redis/stages/cf6,Create a stream,create | stream
+https://app.codecrafters.io/courses/redis/stages/hq8,Validating entry IDs,entry | ids | validating
+https://app.codecrafters.io/courses/redis/stages/yh3,Partially auto-generated IDs,auto | generated | ids | partially
+https://app.codecrafters.io/courses/redis/stages/xu6,Fully auto-generated IDs,auto | fully | generated | ids
+https://app.codecrafters.io/courses/redis/stages/zx1,Query entries from stream,entries | query | stream
+https://app.codecrafters.io/courses/redis/stages/yp1,Query with -,query
+https://app.codecrafters.io/courses/redis/stages/fs1,Query with +,query
+https://app.codecrafters.io/courses/redis/stages/um0,Query single stream using XREAD,query | single | stream | using | xread
+https://app.codecrafters.io/courses/redis/stages/ru9,Query multiple streams using XREAD,multiple | query | streams | using | xread
+https://app.codecrafters.io/courses/redis/stages/bs1,Blocking reads,blocking | reads
+https://app.codecrafters.io/courses/redis/stages/hw1,Blocking reads without timeout,blocking | reads | timeout | without
+https://app.codecrafters.io/courses/redis/stages/xu1,Blocking reads using $,blocking | reads | using
+https://app.codecrafters.io/courses/redis/stages/si4,The INCR command (1/3),1 | 3 | command | incr
+https://app.codecrafters.io/courses/redis/stages/lz8,The INCR command (2/3),2 | 3 | command | incr
+https://app.codecrafters.io/courses/redis/stages/mk1,The INCR command (3/3),3 | command | incr
+https://app.codecrafters.io/courses/redis/stages/pn0,The MULTI command,command | multi
+https://app.codecrafters.io/courses/redis/stages/lo4,The EXEC command,command | exec
+https://app.codecrafters.io/courses/redis/stages/we1,Empty transaction,empty | transaction
+https://app.codecrafters.io/courses/redis/stages/rs9,Queueing commands,commands | queueing
+https://app.codecrafters.io/courses/redis/stages/fy6,Executing a transaction,executing | transaction
+https://app.codecrafters.io/courses/redis/stages/rl9,The DISCARD command,command | discard
+https://app.codecrafters.io/courses/redis/stages/sg9,Failures within transactions,failures | transactions | within
+https://app.codecrafters.io/courses/redis/stages/jf8,Multiple transactions,multiple | transactions
