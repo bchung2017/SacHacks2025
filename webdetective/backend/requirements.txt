@@ -1,0 +1,13 @@
+flask
+flask-cors
+requests
+beautifulsoup4
+pandas
+nltk
+torch
+faiss-cpu
+numpy
+tqdm
+transformers
+sentence-transformers
+

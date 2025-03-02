@@ -90,7 +90,7 @@ st.markdown(
 )
 
 # App Title
-st.markdown("<h1 class='main-title'>WEB DETECTIVE</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='main-title'>Generate Search Engine</h1>", unsafe_allow_html=True)
 st.markdown("<p class='subtitle'>Enter your website URL below and we'll generate an AI-powered search engine for your content.</p>", unsafe_allow_html=True)
 
 # Input field for URL
